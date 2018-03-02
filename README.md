@@ -22,13 +22,6 @@ Was going to stick with tried and true design principles, use a face or an image
 
 The FCC has a lovely page for the GP where they can find out about their nuts and bolts. 
 
-So the App should be a tool to lodge a complaint, as streamlined as possible based on a simple scenario. Big data is available to do most of the form processing either through TSA or FCC. I would invasion , based on an authenticated user scenario, that the lat/lon and other pertinent data would auto-fill. 
+So the App should be a tool to lodge a complaint, as streamlined as possible based on a simple scenario. Big data is available to do most of the form processing either through TSA or FCC. I would invision , based on an authenticated user scenario, that the lat/lon and other pertinent data would auto-fill. 
 
 
-Closing Remarks
-
-This was a fun exercise! I believe this would be a very usable and purposeful app. 
-
-Best and a hearty virtual handshake,
-
-Chuck Stableford
